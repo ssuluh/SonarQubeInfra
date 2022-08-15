@@ -1,0 +1,4 @@
+config:
+  SonarQube:dbpassword:
+    secure: AAABACfHccsD4Z7XFujkYEybnLVcQx8tz1V/2qTs6ipuCRgnWg==
+  SonarQube:dbusername: sq-admin
